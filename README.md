@@ -1,0 +1,45 @@
+# 🎓 Answer - OSS Management Course
+
+## 📚 Course Overview
+Welcome to the Open Source Software (OSS) Management course! This repository will track your progress through various quests and challenges designed to teach you about contributing to open source projects.
+
+## 🎯 Learning Objectives
+- Understand the OSS contribution workflow
+- Learn to work with Git and GitHub
+- Practice creating pull requests and issues
+- Develop collaboration skills in open source projects
+
+## 📊 Your Progress
+Your current progress will be displayed here as you complete quests.
+
+### 🚀 Current Quest
+### 🕒 Progress Update: 2025-08-04 14:05:46 UTC
+
+#### ⚙️ Current Quest: get language
+- get language
+  > lanaguage What is the primary programming language of VS Code?
+- golang/go
+  > When was the Go repository created? (YYYY-MM-DD format)
+- What license does Apache Kafka use?
+  > What license does Apache Kafka use?
+
+
+### ✅ Completed Quests
+{Completed quests will be listed here}
+
+## 📋 Available Quests
+{Quest list will be populated here}
+
+## 🛠️ Getting Started
+1. Accept the invitation to this repository
+2. Check the issues tab for your first quest
+3. Follow the instructions in each quest
+4. Submit your answers as comments on the issues
+
+## 📞 Need Help?
+- Check the quest instructions carefully
+- Use hints if available (they may cost XP)
+- Ask questions in the issue comments
+
+---
+*This README is automatically updated as you progress through the course.*
